@@ -1,68 +1,58 @@
-<h1 align="center">Hi, I'm Mohamed Khalil Rafik 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Engineering Student at EMSI, Morocco 🇲🇦</strong><br>
-  <strong>AI & Data Engineering</strong> · Machine Learning · Big Data · MLOps
-</p>
+# Mohamed Khalil Rafik
 
-<p align="center">
-  <a href="mailto:khalilrafik9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Gofkhalil"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Gofkhalil-181717?style=flat-square&logo=github&logoColor=white"></a>
-</p>
+### Software Engineering Student | AI & Data Science Enthusiast
 
----
+Engineering student at **École Marocaine des Sciences de l'Ingénieur (EMSI)** in Morocco, interested in artificial intelligence, data science and software development.
 
-### 👨‍💻 About me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khalil-rafik)
+[![GitHub](https://img.shields.io/badge/GitHub-Gofkhalil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gofkhalil)
 
-I'm an engineering student interested in building **end-to-end data and AI systems** — from data ingestion and processing to machine learning, LLM-powered applications and model lifecycle management.
-
-- 🔭 Exploring **Data Engineering, Machine Learning, MLOps and agentic AI**
-- 🧠 Interested in **LLMs, intelligent workflows and practical AI applications**
-- ⚙️ Working with tools such as **PySpark, MLflow, FastAPI, LangGraph and MinIO**
-- 🎯 Focused on turning technical concepts into well-documented, reproducible projects
-
-### 🛠️ Technical skills
-
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python, SQL, Java, JavaScript, C/C++ |
-| **Data engineering** | Apache Spark / PySpark, Airbyte, MinIO, Pandas |
-| **AI & machine learning** | Scikit-learn, LLMs, LangGraph, ChromaDB, Ollama |
-| **MLOps** | MLflow, model evaluation, experiment tracking, model registry |
-| **Backend & APIs** | FastAPI, Django, Node.js, Express |
-| **Databases & tools** | MySQL, MongoDB, Git, GitHub, Postman |
-
-### 🚀 Selected projects
-
-**🗞️ Agentic Fake News Detection**  
-An AI-assisted fact-checking workflow that combines external evidence retrieval with LLM-based analysis and decision logic.  
-`Python` · `LangGraph` · `FastAPI` · `ChromaDB` · `DeepSeek / Ollama`
-
-**📊 Fraud Detection — MLOps Workflow**  
-An academic machine-learning pipeline for data preparation, model training, evaluation and experiment tracking, with versioned models and staging/production aliases in the MLflow Model Registry.  
-`Python` · `Scikit-learn` · `MLflow`
-
-**🌦️ Weather Data Ingestion — Medallion Architecture**  
-A data engineering project designed around the Bronze / Silver / Gold architecture, including raw weather API ingestion into a MinIO Bronze layer using Airbyte.  
-`Weather API` · `Airbyte` · `MinIO` · `Data Engineering`
-
-**💬 Linguistic Bias Detection in Customer-Service Chatbots**  
-A collaborative Python application that detects categories of linguistic bias, suggests neutral reformulations and presents analysis in a Streamlit interface.  
-`Python` · `Pandas` · `Streamlit`  
-🔗 [Explore the repository](https://github.com/Gofkhalil/projet-detection-biais-linguistiques-chatbot)
-
-**🏠 Student Housing & Roommate Platform**  
-A Django web application for student listings, account roles and communication between owners and students.  
-`Django` · `Python` · `HTML/CSS` · `JavaScript`
-
-> More project repositories and documentation will be added as they are ready to share.
-
-### 📚 Currently exploring
-
-`Distributed Data Processing` · `MLOps` · `Computer Vision` · `LLM Agents` · `Data Pipelines`
+</div>
 
 ---
 
-<p align="center">
-  <em>Always learning, building and improving — one project at a time.</em>
-</p>
+## About me
+
+I am a software engineering student at **EMSI**, with interests spanning **AI, data science, programming and web development**. I enjoy strengthening my technical skills through learning and hands-on practice.
+
+- **Education:** École Marocaine des Sciences de l'Ingénieur (EMSI), 2022–2027
+- **Professional experience:** Groupe ONCF — Rabat, Morocco
+- **Interests:** Artificial Intelligence · Data Science · Software Development
+
+## Technical skills
+
+**Programming & development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+
+**Areas of interest**
+
+`Artificial Intelligence` · `Data Science` · `Software Engineering` · `Web Development`
+
+## Certifications
+
+| Certification | Issuer | Date |
+| :--- | :--- | :--- |
+| **Oracle Cloud Infrastructure Certified AI Foundations Associate** | Oracle | Sep 2026 |
+| **Python for Data Science, AI & Development** | IBM | Apr 2025 |
+| **Interactivity with JavaScript** | University of Michigan | Nov 2024 |
+| **Introduction à la programmation orientée objet (en C++)** | EPFL | Nov 2024 |
+
+*Certificate details are available on my [LinkedIn profile](https://www.linkedin.com/in/mohamed-khalil-rafik).* 
+
+## Let's connect
+
+I'm always interested in discussing software development, AI and opportunities to learn and collaborate.
+
+- **LinkedIn:** [mohamed-khalil-rafik](https://www.linkedin.com/in/mohamed-khalil-rafik)
+- **GitHub:** [@Gofkhalil](https://github.com/Gofkhalil)
+
+---
+
+<div align="center"><sub>Learning, building and growing.</sub></div>
